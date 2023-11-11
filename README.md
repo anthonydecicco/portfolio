@@ -17,4 +17,4 @@ This is a collection of my personal projects. Below you will find a short descri
      - How to work with local storage to maintain state across refreshes, e.g., dark mode
      - How to utilize createContext to create a context of data that is provided to nested pages to be used
      - Strengthen my understanding and experience working with arrays - mapping and comparing data
-   - A link to the demo can be found on [YouTube](https://www.youtube.com/watch?v=wH7xs3B8KOI&t=15s)
+   - A link to the demo can be found on [YouTube](https://www.youtube.com/watch?v=wH7xs3B8KOI)
